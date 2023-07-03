@@ -1,2 +1,2 @@
 # ProjectOnNeuralNetwork
-##dataset for pokemon is avialable on kaggele.
+## dataset for pokemon is avialable on kaggele.
